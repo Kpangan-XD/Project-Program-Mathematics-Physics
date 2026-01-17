@@ -6,6 +6,7 @@ dari 0 sampai 200 baris saja.
 v1.1 BETA
 
 Program Matematika buff 200 baris -> 1004 baris.
+
 Terdapat
 
 - menambahkan suhu, bangun ruang dan bangun datar;
