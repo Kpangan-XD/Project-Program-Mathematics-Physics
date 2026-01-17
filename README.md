@@ -10,8 +10,15 @@ Terdapat
 - menambahkan fitur reverse, fitur while, fitur rumus lengkap.
 - nested switch dan if else.
 - terdapat biodata dan catatan lanjut tentang program
+
+  
 Kekurangan
+
+
 - masih tedapat bug kecil
 - program dapat dirun, kecuali bug tersembunyi system.
 - masih pemula c++
+
+
+
 PROGRAM DITULIS MENGGUNAKAN C++.
